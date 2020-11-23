@@ -1,0 +1,6 @@
+# 準備
+## 言語モデル
+
+
+- `$a = b$` or `$$a = b$$` format, or
+- escape your backslash, like `\\(a = bc\\)` or `\\[a = bc\\]`
